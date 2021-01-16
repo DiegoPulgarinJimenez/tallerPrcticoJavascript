@@ -8,3 +8,6 @@ button{
 html{
     color:green
 }
+#botSuma, #botResta, #botMulti, #botDiv{
+    margin-left: 0px;
+}
